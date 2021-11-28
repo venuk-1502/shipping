@@ -1,6 +1,6 @@
 @Library('roboshop') _
 
-nodejs(
+java(
   COMPONENT : 'shipping',
   LABEL     : 'WORKSTATION'
 )
