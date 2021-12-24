@@ -6,7 +6,12 @@
 //)
 
 
-javaImmutable(
+//javaImmutable(
+//    COMPONENT                 : 'shipping',
+//    LABEL                     : 'WORKSTATION'
+//)
+
+docker(
     COMPONENT                 : 'shipping',
     LABEL                     : 'WORKSTATION'
 )
